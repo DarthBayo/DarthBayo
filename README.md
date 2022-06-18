@@ -1,4 +1,7 @@
-# Olá, meu nome é Giovani!
+### Oi, eu sou o Giovani
+
+---
+### Hey, it's me, Giovani
 
 <!-- > Faça uma breve aprensentação sobre você e a sua área.
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele. -->
