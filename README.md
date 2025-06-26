@@ -6,7 +6,3 @@
 
 --- 
 I have a lot of private projects (All useless and pointless, of course).</br>
-
-Languages I'm focused on:</br>
-![Static Badge](https://img.shields.io/badge/php-%234F5B93?style=for-the-badge&logo=php)
-![Static Badge](https://img.shields.io/badge/Golang-%23000000?style=for-the-badge&logo=go)
